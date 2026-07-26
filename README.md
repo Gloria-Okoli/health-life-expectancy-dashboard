@@ -34,7 +34,7 @@ To identify patterns in global health outcomes and healthcare investment across 
 4. Merged in country metadata (Region, Income Group) to distinguish real countries from regional/income aggregates (e.g. "World", "Sub-Saharan Africa").
 5. Flagged a **data quality anomaly**: the Central African Republic's 2022 life expectancy was recorded as 18.8 years in the WDI export — inconsistent with historical trend and external sources (~54.5 years). Retained and documented for transparency rather than silently corrected. See full report for details.
 
-Full methodology and findings are documented in [`report/Health_Life_Expectancy_Capstone_Report.docx`](./report/Health_Life_Expectancy_Capstone_Report.docx).
+Full methodology and findings are documented in [`report/Health_Life_Expectancy_Capstone_Report.docx`](.https://drive.google.com/file/d/1UsYUzyxwD2Lza_U4XnsqyHeiT65Prgwy/view?usp=sharing).
 
 ## 📈 Dashboard
 
@@ -88,7 +88,7 @@ health-life-expectancy-dashboard/
 
 ## 🎥 Demo Video
 
-[https://drive.google.com/file/d/1EHWT6oFEDAQOZHVzIZ4zlcZEq6lRFlmI/view?usp=sharing] — walkthrough of objective, dataset, cleaning process, analysis, dashboard, insights, and recommendations.
+[.https://drive.google.com/file/d/1EHWT6oFEDAQOZHVzIZ4zlcZEq6lRFlmI/view?usp=drive_link] — walkthrough of objective, dataset, cleaning process, analysis, dashboard, insights, and recommendations.
 
 ## 👤 Author
 
