@@ -25,6 +25,12 @@ To identify patterns in global health outcomes and healthcare investment across 
   - Hospital beds (per 1,000 people)
   - Prevalence of HIV, total (% of population ages 15–49)
   - Immunization, measles (% of children ages 12–23 months)
+  - 
+> **Note:** The full dataset is not included in this repository due to file size 
+> constraints (the cleaned working file exceeds GitHub's practical size limits). 
+> The dataset can be downloaded directly from the source above, and the complete 
+> data cleaning process (Power Query steps) is documented in this README and in 
+> the full report.
 
 ## 🧹 Data Cleaning Process
 
